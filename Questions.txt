@@ -1,0 +1,23 @@
+Sure! Here are some JavaScript logic-building questions:
+
+1. **FizzBuzz**: Write a program that prints the numbers from 1 to 100. But for multiples of three, print "Fizz" instead of the number, and for the multiples of five, print "Buzz". For numbers that are multiples of both three and five, print "FizzBuzz".
+
+2. **Palindrome Checker**: Write a function to determine if a given string is a palindrome (reads the same forwards and backwards), ignoring spaces, punctuation, and capitalization.
+
+3. **Reverse a String**: Write a function that takes a string as input and returns the string reversed.
+
+4. **Factorial**: Write a function to calculate the factorial of a given number.
+
+5. **Check for Prime Number**: Write a function to determine if a given number is prime or not.
+
+6. **Find the Longest Word**: Write a function that takes a string and returns the longest word in the string.
+
+7. **Count Vowels**: Write a function that takes a string and returns the number of vowels in that string.
+
+8. **Remove Duplicates**: Write a function that takes an array as input and returns a new array with duplicates removed.
+
+9. **Merge Two Sorted Arrays**: Write a function that takes two sorted arrays and merges them into a single sorted array.
+
+10. **Find Missing Number**: Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, write a function to find the one that is missing from the array.
+
+These questions should help you practice and build your logic skills in JavaScript. Let me know if you need further explanation or assistance with any of them!
